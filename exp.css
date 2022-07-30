@@ -1,0 +1,260 @@
+.navigation
+{
+    background-color: dodgerblue;
+    color: white;
+    padding: 5px;
+    border-spacing: 5px;
+    width:60%;
+    text-align-last: center;
+    margin-left: 187px;
+}
+.navigation a:link
+{
+    color: white;
+    text-decoration: none;
+}
+.main
+{
+    background-color:dodgerblue;
+    color:white;
+    font-weight:600;
+    font-family: 'Times New Roman', Times, serif;
+    float: right;
+    width:99%;
+    padding-top:35px;
+    padding-bottom:35px;
+    text-align-last: center;
+}
+#logo
+{
+    display:inline-block;
+}
+#head1
+{
+    font-size: xx-large;
+}
+#head2
+{
+    font-size: larger;
+}
+#marquee
+{
+    background-color: black;
+    color:white;
+    float:right;
+    width:99%;
+}
+
+.notification
+{
+    width: 400px;
+    background-color: white;  
+    float: right;
+}
+.list
+{
+    width: 380px;
+    border:5px solid dodgerblue;
+    border-top:0px;
+    border-radius: 5px;
+    margin: 0px;
+}
+#updates
+{
+    border:0px;
+}
+
+.slideshow{
+   position: relative;
+   display: flex;
+   width:60%;
+    margin-left: 189px;
+    margin-top: 10px;
+    height:450px;
+
+}
+ 
+#slideshowing
+{
+    width: 60%;
+    margin-left: 189px;
+    margin-top: 10px;
+}
+.main-body img{
+box-shadow: 10px 10px 5px grey;
+transition: 1s linear ease-in;
+}
+  
+#leftbtn{
+position:absolute;
+margin-top: 150px;
+}
+#rightbtn{
+position:absolute;
+margin-top: 150px;
+margin-left: 854px;
+}
+#left{
+padding: 10px;
+background-color: transparent;
+font-size: 30px;
+border-style: none;
+color: white;
+box-shadow: 2px grey;
+}
+#left:hover{
+background-color: #ccc;
+}
+#right{
+padding: 10px;
+background-color: transparent;
+font-size: 30px;
+border-style: none;
+color: white;
+box-shadow: 2px grey;
+}
+#right:hover{
+background-color: #ccc;
+}
+
+.center
+{
+    width:60%;
+    margin-left: 187px;
+}
+#row
+{
+    height:70px;
+    text-decoration: none;
+    text-align-last: center;
+    margin-top: 5px;
+    padding:4px;
+}
+#courses
+{
+    background-color: dodgerblue;
+    color: white;
+    text-align-last: center;
+    padding-top:10px;
+    font-family: serif;
+    font-size:40px;
+    text-decoration: none;
+}
+
+.image:hover
+{
+    opacity: 0.5;
+    cursor:pointer;
+}
+.placement
+{
+    text-align-last: center;
+    font-family:fantasy;
+    border: 4px groove;
+    height: 100px;
+    padding-top: 50px;
+    font-size: 50px;
+    background-color: dodgerblue;
+    color:white;
+}
+
+.box
+{
+    height:40px;
+    width: 210px;
+    margin:2px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 35px;
+    color:white;
+    background-color:dodgerblue;
+    padding-top:5px;
+    border: 5px solid blue;
+    border-radius: 5px;
+    text-align-last: center;
+    text-decoration: none;
+}
+.box:hover
+{
+    opacity: 0.7;
+    color:red;
+}
+
+.quad
+{
+    height: 40%;
+    width:40%;
+    padding: 3px;
+}
+#news
+{
+    background-color:dodgerblue;
+    color:white;
+    font-weight:600;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+    float: right;
+    margin:0px;
+    height:80px;
+    padding-top:35px;
+    padding-bottom:35px;
+    text-align-last: center;
+}
+button
+{
+    background-color: dodgerblue;
+    color: white;
+    padding:2px;
+    padding-left:40px;
+}
+button:hover
+{
+    cursor:pointer;
+}
+
+#campus
+{
+    background-color: black;
+    color:white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    font-size:60px;
+    text-align-last: center;
+    width:80%;
+    margin-left:100px;
+    padding-top:20px;
+}
+#video
+{
+    width:80%;
+    margin-left: 100px;
+}
+
+.footer {
+    margin-top:100px;
+   background-color:black;
+   color:white;
+ 
+   position:relative;
+   margin-bottom:0px;
+   width:100%;
+   overflow:visible;
+   
+   
+}
+.footer div{
+   margin-left:10px;
+   width:100%;
+
+}
+
+.footer img{
+   height:100px;
+}
+
+.footer a {
+   text-decoration : none;
+   color:white;
+}
+.footer a:hover{
+   color:rgb(255, 255, 0);
+}
